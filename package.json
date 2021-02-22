@@ -1,0 +1,24 @@
+{
+  "name": "rest-api-mam",
+  "version": "1.0.0",
+  "description": "rest api english for kids from City Osvaldo Cruz-SP",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcioAndre3767/rest-api-mam.git"
+  },
+  "keywords": [],
+  "author": "Marcio Mendes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcioAndre3767/rest-api-mam/issues"
+  },
+  "homepage": "https://github.com/MarcioAndre3767/rest-api-mam#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
